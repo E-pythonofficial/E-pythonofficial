@@ -9,7 +9,7 @@ I’m a passionate AIML Engineer and Full Stack Developer who loves solving prob
 
 ## 🛠️ Tech Stack  
 
-**Languages & Frameworks** 
+**Languages & Frameworks** : 
 ! Python
 ! React
 ! Javascript
@@ -31,13 +31,12 @@ I’m a passionate AIML Engineer and Full Stack Developer who loves solving prob
 - **Portfolio Website** – Personal site built with React & Tailwind.
 
 📫 **Connect with me:**  
- 💼 [LinkedIn] - https://www.linkedin.com/in/eniola-somoye-o-a-k-a-e-python-a9b66b244/
+💼 [LinkedIn] - https://www.linkedin.com/in/eniola-somoye-o-a-k-a-e-python-a9b66b244/
 📧 [Email] - eniolasomoye16@gmail.com 
 
 
-“Beyond Code”
+“Beyond Code”:
+
 🎷 Saxophone Player
-
-📚 Book Lover
-
+📚 Book Lover, most especially self help✨
 💡 Motivational Quotes Enthusiast
