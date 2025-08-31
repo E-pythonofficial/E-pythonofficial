@@ -4,7 +4,7 @@
 
 I’m a passionate AIML Engineer and Full Stack Developer who loves solving problems, building impactful solutions, and teaching others how to code.  
 - 🔭 Currently working on **My PDM Tutor** (AI-powered tutoring platform).  
-- 🌱 Learning and Building in the world *Artificial Intelligence*, *Machine Learning*, *Data Science* & *Mobile Applications using Flutter* .  
+- 🌱 Learning and Building in the world of *Artificial Intelligence*, *Machine Learning*, *Data Science* & *Mobile Applications using Flutter* .  
 - 🎷 Fun fact: I play the saxophone, listening to music, singing and love listening to motivational quotes.  
 
 ## 🛠️ Tech Stack  
