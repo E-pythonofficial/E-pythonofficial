@@ -10,21 +10,21 @@ I’m a passionate AIML Engineer and Full Stack Developer who loves solving prob
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks** : 
-! Python
-! React
-! Javascript
-! Node.js
-! Dart
+- Python
+- React
+- Javascript
+- Node.js
+- Dart
 
-**Databases**
-! MySQL
-! MongoDB
+**Databases**:
+- MySQL
+- MongoDB
 
-**Tools & Platforms**
-! Git
-! Github
-! VsCode
-! Jupyter Lab
+**Tools & Platforms**:
+- Git
+- Github
+- VsCode
+- Jupyter Lab
 
 ### 🚀 Featured Projects  
 - **My PDM Tutor** – AI-powered tutoring web app.   
