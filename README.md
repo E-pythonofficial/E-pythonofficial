@@ -1,5 +1,5 @@
 # 👋 Hi, I’m E-Python  
-🚀 AIML Engineer | 📊 Data Analyst | 🌐 Full Stack Developer | 🎓 Tutor  
+🚀 AIML Engineer | 📊 Data Analyst | 🌐 Full Stack Developer | 🎓 Tutor  | Founder | Business Woman
 
 
 I’m a passionate AIML Engineer and Full Stack Developer who loves solving problems, building impactful solutions, and teaching others how to code. 
