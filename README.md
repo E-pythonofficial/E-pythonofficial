@@ -2,7 +2,8 @@
 🚀 AIML Engineer | 📊 Data Analyst | 🌐 Full Stack Developer | 🎓 Tutor  
 
 
-I’m a passionate AIML Engineer and Full Stack Developer who loves solving problems, building impactful solutions, and teaching others how to code.  
+I’m a passionate AIML Engineer and Full Stack Developer who loves solving problems, building impactful solutions, and teaching others how to code. 
+- Founder of Campus Run - student delivery service that aims to transport customer's parcel/package from one place to another, acheived in rel-time, tracking using Google maps.
 - 🔭 Currently working on **My PDM Tutor** (AI-powered tutoring platform).  
 - 🌱 Learning and Building in the world of *Artificial Intelligence*, *Machine Learning*, *Data Science* & *Mobile Applications using Flutter* .  
 - 🎷 Fun fact: I play the saxophone, listening to music, singing and love listening to motivational quotes.  
